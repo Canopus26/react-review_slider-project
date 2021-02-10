@@ -1,5 +1,8 @@
-# react-projects-7-slider
+# react-projects-slider review
 
-#### IN ACTION
+link to slider review website:
 
-[Gatsby-Airtable Project](https://gatsby-airtable-design-project.netlify.app/)
+https://react-slider-reviews-project.netlify.app/
+
+
+
